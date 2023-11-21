@@ -1,0 +1,4 @@
+services:
+  pager:
+    build: .
+    command: npm start
